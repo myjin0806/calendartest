@@ -1,6 +1,6 @@
 달력 만들기 테스트입니다.
 
-https://myjin0806.github.io/calendartest/
+https://myjin0806.github.io/test_calendar/
 
 ## 기능 요구 사항
 > ### 달력  UI
