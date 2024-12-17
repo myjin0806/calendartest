@@ -1,4 +1,7 @@
-달력 만들기 테스트입니다.
+# 달력 만들기
+
+## 제작기간
+> 2024.11.19
 
 https://myjin0806.github.io/test_calendar/
 
